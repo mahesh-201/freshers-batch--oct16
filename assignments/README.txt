@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 hello world! hii!
 =======
-hii!
+hii!hello
 >>>>>>> html-assignments
